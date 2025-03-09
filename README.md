@@ -35,5 +35,9 @@ I'm a self-taught web developer from Armenia, currently living in Italy. I have 
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 📧 Email: grigorzakaryan.dev@gmail.com
 
+## 📈 GitHub Stats
+
+![Grigor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrigorZakaryan&show_icons=true&theme=radical)
+
 ### ⚡ Fun Fact
 I love **business strategy** and plan to launch my own startup in the future! 🚀
