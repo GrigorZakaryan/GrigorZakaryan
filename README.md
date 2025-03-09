@@ -1,19 +1,18 @@
 # Hi there, I'm Grigor Zakaryan! 👋
 
 ## 🚀 About Me
-I'm a self-taught web developer from Armenia, currently living in Italy. I have three years of experience in web development, specializing in **React, Next.js, and Tailwind CSS**. I'm passionate about building scalable web applications and always eager to learn new technologies.
+I'm a self-taught web developer based in Italy. I have 3+ years of experience in web development, specializing in **React, Next.js, and Tailwind CSS**. I'm passionate about building scalable web applications and always eager to learn new technologies.
 
 ### 🔥 What I Do
-- 🏗️ **Full-Stack Development** – Building modern web applications with **Next.js** and **Convex DB**
-- 🎨 **UI/UX Design** – Crafting sleek and intuitive interfaces with **Tailwind CSS**
-- 📱 **Mobile Development** – Exploring **React Native**
+- 🏗️ **Full-Stack Development** – Building modern web applications with **Next.js**
+- 🎨 **UI/UX Design** – Crafting sleek and intuitive interfaces with **Figma, Tailwind CSS, Framer motion and UI libraries**
 - 📊 **Business & Economics** – Studying **business economics** and applying it to tech projects
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS
+- **Frontend:** React, Next.js, Tailwind CSS, Typescript, Framer Motion, UI Libraries (shadcnUI, DaisyUI, AceternityUI etc.)
 - **Backend:** Next.js API Routes, Convex DB, Prisma
 - **Databases:** PostgreSQL, MongoDB
-- **Authentication:** NextAuth, Firebase Auth, OTP Authentication
+- **Authentication:** Auth.js, Firebase Auth, OTP Authentication
 - **Payments:** Stripe, Stripe Connect
 - **DevOps:** Vercel, Google Cloud
 
@@ -23,17 +22,15 @@ I'm a self-taught web developer from Armenia, currently living in Italy. I have 
 - Stripe Connect & Payment Integrations 💳
 
 ### 💼 Projects
-🚀 **BookEase** – A booking platform for businesses to manage appointments. *(Next.js, Convex DB, Stripe Connect)*
+🚀 **BookEase** – A booking platform for businesses to manage appointments. *(Next.js, Prisma ORM + PostgreSQL, Stripe Connect, Pusher for real-time)*
 
-🍔 **Food Delivery App** – A restaurant ordering system with online payments and admin dashboard. *(Next.js, PostgreSQL, Stripe)*
+🍔 **Food Delivery App** – A restaurant ordering system with online payments and admin dashboard. *(Next.js, Prisma ORM + PostgreSQL, Google APIs)*
 
-🛠️ **Custom UI Library** – A component library for React & Next.js. *(Similar to shadcn/ui)*
 
 ### 📫 Connect With Me
 - 🌍 [Website (Coming Soon)]()
-- 💼 [LinkedIn](https://www.linkedin.com/in/grigor-zakaryan)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: grigorzakaryan.dev@gmail.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/grigor-zakaryan](https://www.linkedin.com/in/grig-zakaryan-42a83b288/))
+- 📧 Email: grigzaqaryan85@gmail.com
 
 ## 📈 GitHub Stats
 
