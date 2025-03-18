@@ -17,7 +17,6 @@ I'm a self-taught web developer based in Italy. I have 3+ years of experience in
 - **DevOps:** Vercel, Google Cloud
 
 ### 🌱 Currently Learning
-- React Native 📱
 - Advanced Database Architectures 🗄️
 - Stripe Connect & Payment Integrations 💳
 
