@@ -33,7 +33,7 @@ I'm a self-taught web developer based in Italy. I have 3+ years of experience in
 
 ## 📈 GitHub Stats
 
-![Grigor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrigorZakaryan&show_icons=true&theme=radical)
+![Grigor's GitHub Stats](github-readme-stats-two-psi-34.vercel.app/api?username=GrigorZakaryan&show_icons=true&theme=radical)
 
 ### ⚡ Fun Fact
 I love **business strategy** and plan to launch my own startup in the future! 🚀
