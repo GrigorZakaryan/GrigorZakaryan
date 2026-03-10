@@ -28,7 +28,7 @@ I'm a self-taught web developer based in Italy. I have 3+ years of experience in
 
 ### 📫 Connect With Me
 - 🌍 [Website](https://www.zakaweb.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/grigor-zakaryan](https://www.linkedin.com/in/grig-zakaryan-42a83b288/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/grig-zakaryan-42a83b288/)
 - 📧 Email: grigzaqaryan85@gmail.com
 
 ## 📈 GitHub Stats
